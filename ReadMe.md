@@ -1,4 +1,4 @@
-# FedSOL (Federated Stabilized Orthogonal Learning)
+# Fixcaps_FL
 
 This repository is the official PyTorch implementation of:
 
